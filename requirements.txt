@@ -1,0 +1,15 @@
+# Main dependencies
+torch
+numpy
+Pillow
+scipy
+scikit-learn
+tqdm
+torchvision
+dominate
+matplotlib
+opencv-python
+
+# Optional/test dependencies
+unittest
+argparse
